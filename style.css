@@ -1,0 +1,44 @@
+.first{
+    width: 200px;
+    background-color: rgb(222, 12, 12);
+    height: 50vh;
+    border: 6px solid black;
+   padding: 20px;
+   overflow: hidden;
+   padding-top: 5px;
+   border-radius: 30px;
+   color: aliceblue;
+   margin: 10px 10px;
+   border-left: yellow;
+   border-right: yellow;
+   border-style: dashed;
+   word-spacing: 2px;
+   font-size: medium;
+   font-style: italic;
+   
+}
+.btn{
+    background-color: blue;
+    margin-left: 60px;
+    margin-top: 65px;
+    border-radius: 25px;
+
+    
+}
+.btn:hover{
+    background-color: red;
+    /* width: 50px; */
+    padding: 10px;
+}
+
+.father{
+    display: flex;
+    background-color: aquamarine;
+    justify-content: space-between;
+   
+   
+}
+.form{
+    background: rgba(255, 0, 0, 0.246);
+    margin-left: 15px;
+}
